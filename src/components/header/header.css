@@ -1,0 +1,23 @@
+.hero-section {
+    background-color: #495E57; /* Customize the background color as needed */
+    color: white; /* Customize the text color as needed */
+    padding: 20px; /* Add some padding for spacing */
+  }
+  .reserve-btn {
+    background-color: #F4CE14; /* Customize the button color */
+    color: #333333;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  .reserve-btn:hover {
+    background-color: #e76f51; /* Customize the hover color */
+  }
+
+  .img-height {
+    height: auto;
+    width: 20rem;
+    object-fit: cover; /* This will keep the image proportionate */
+    border-radius: 2rem;
+  }
